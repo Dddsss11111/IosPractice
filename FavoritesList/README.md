@@ -10,4 +10,8 @@
 ### iPhone 16 Pro Max
 ![iPhone 16 Pro Max](screenshot-16promax.png)
 
+## Демонстрация прокрутки
+
+
+https://github.com/user-attachments/assets/b72e9e6c-1286-467d-afaa-be3d82734c0d
 
